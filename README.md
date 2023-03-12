@@ -9,6 +9,4 @@ I'm here to learn and build projects with the help of the community🫡🫡.
 
 ## REACH ME ON 🔗
 
-Twitter - @akolgo_prince 
-
-Linkdlin - Prince Akolgo
+Gmail - adoleyineprinceakolgo@gmail.com
