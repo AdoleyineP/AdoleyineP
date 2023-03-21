@@ -7,7 +7,7 @@ I'm a computer science student of Kwame Nkurmah University Of Science And Techno
 
 I'm here to learn and build projects with the help of the community🫡🫡.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=30px width=40px/>
 
 ## REACH ME ON 🔗
 
