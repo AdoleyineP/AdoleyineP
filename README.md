@@ -7,7 +7,7 @@ I'm a computer science student of Kwame Nkurmah University Of Science And Techno
 
 I'm here to learn and build projects with the help of the community🫡🫡.
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" height=20px widh=40px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 ## REACH ME ON 🔗
 
